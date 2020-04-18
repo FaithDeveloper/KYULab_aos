@@ -12,14 +12,6 @@ KYU LAB AOS Project 로 다양한 프로젝트를 관리하고 있습니다.
 
 * 
 
-ㄴ<br/>
-
-## Custom View
-
-Custom View로 만든  프로젝트 입니다.
-
-* 
-
 <br/>
 
 ## Sample & Guide
